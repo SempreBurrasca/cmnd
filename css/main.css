@@ -9,7 +9,9 @@
     top: 25rem;
 }
 .hero a{
-    all: unset;
+    color: aliceblue!important;
+    font-size: large;
+
 }
 .menu{
     color: black;
