@@ -6,11 +6,11 @@ $(document).ready(function(){
     $('.scrollspy').scrollSpy({scrollOffset:0});
   });
   $( "#ios" ).hover(function() {
-    $( this ).toggleClass( "indigo " );
+    $( "#her" ).toggleClass( "indigo " );
   });
   $( "#sono" ).hover(function() {
-    $( this ).toggleClass( "blue " );
+    $( "#her" ).toggleClass( "blue " );
   });
   $( "#semp" ).hover(function() {
-    $( this ).toggleClass( "teal " );
+    $( "#her" ).toggleClass( "teal " );
   });
