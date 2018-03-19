@@ -1,0 +1,20 @@
+.bio img{
+    max-width: 20%;
+}
+.full-h{
+    min-height: 100vh!important;
+}
+.hero .menu{
+    position: relative;
+    top: 25rem;
+}
+.menu{
+    color: black;
+    display: inline;
+}
+.bio{
+    margin: 12rem 0 12rem 0 ;
+}
+.competenze{
+
+}
